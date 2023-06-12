@@ -1,0 +1,78 @@
+body 
+{
+	background-color: #248f24;
+}
+h1
+{
+	color: black;
+	font-size: 20pt;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+h2
+{
+	color:black;
+	font-size: 15pt;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+.p1
+{
+	font-size:20px;
+    color:white;
+    text-align:right;    
+    border:5px solid white;
+	background-color: #99cc00;
+	width: 30%;
+	margin: auto;
+}
+.p2
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px dashed white;
+	 background-color: #99cc00;
+	width: 30%;
+	margin: auto;
+}
+.p3
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px dotted white;
+	 background-color: #99cc00;
+	width: 30%;
+	margin: auto;
+}
+.p4	
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px double white;
+	 background-color: #99cc00;
+	width: 30%;
+	margin: auto;
+}
+.p5
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px groove white;
+	 background-color: #99cc00;
+	width: 30%;
+	margin: auto;
+}
+.p6
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px ridge white;
+	 background-color: #99cc00;
+	width: 30%;
+	margin: auto;
+}
